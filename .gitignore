@@ -13,6 +13,7 @@ venv.bak/
 .DS_Store
 .AppleDouble
 .LSOverride
+__pycache__
 
 # рабочие папки
 tem.py
