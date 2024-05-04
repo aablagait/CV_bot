@@ -13,3 +13,6 @@ venv.bak/
 .DS_Store
 .AppleDouble
 .LSOverride
+
+# рабочие папки
+tem.py
