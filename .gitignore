@@ -16,4 +16,4 @@ venv.bak/
 __pycache__
 
 # рабочие папки
-tem.py
+bot/tem.py
